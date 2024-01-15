@@ -3,9 +3,18 @@ body {
     margin: 10px;
     padding: 0;
 }
+
+p {
+    margin: 20px;
+}
+
 nav {
-    background-color: lightblue; 
-    padding: 10px; 
+    background-color: lightblue;
+    padding: 10px;
+}
+
+figure {
+       text-align: center;
 }
 
 ul {
@@ -42,6 +51,10 @@ form {
     border-radius: 8px;
     margin-left: auto;
     margin-right: auto;
+}
+
+h1{
+    text-align: center;
 }
 
 h2 {
@@ -90,13 +103,17 @@ button[type="button"]:hover {
     background-color: #d32f2f;
 }
 
-#social-links {
+
+#redes-sociais a {
     margin-top: 20px;
     text-align: center;
-}
-
-#social-links a {
     color: #333;
     text-decoration: none;
     margin: 0 10px;
+}
+
+footer{
+    background-color: lightblue; 
+    padding: 10px; 
+    text-align: center;
 }
