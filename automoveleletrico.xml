@@ -254,14 +254,28 @@ xsi:schemaLocation="./automoveleletrico.xsd">
 </sobre>
 
 <contactos>
+    <tabla>
+        <email>
+            <email>Email</email>
+            <exemploE>example@example.com</exemploE>
+        </email>
+        <numero>
+            <numero>Telefone</numero>
+            <exemplo>+351 911 911 911</exemplo>
+        </numero>
+        <morada>
+            <morada>Morada</morada>
+            <exemplo>Rua da Esquina, 132 4450-450, Porto</exemplo>
+        </moarada>
+    </tabla>
     <TítuloC>Formulário de Contato</TítuloC>
-    <tabela>
+    <formulario>
         <nome>Nome</nome>
         <apelido>Apelido</apelido>
         <email>Email</email>
         <telemovel>Número de Telemóvel</telemovel>
         <mensagem>Mensagem</mensagem>
-    </tabela>
+    </formulario>
 </contactos>
 
 </eletrico>
