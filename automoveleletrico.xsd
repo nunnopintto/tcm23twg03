@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  targetNamespace="http://www.juicers.org"
+  xmlns:tns="http://www.juicers.org"
+  elementFormDefault="qualified">
+
+  <xs:element name="index">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="Título" type="string" />
+        <element name="Subtítulo" type="string" />
+        <element name="redi" type="anyURI" />
+        <element name="Fundo" type="anyURI" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+
+  <xs:element name="nav_bar">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="op1" type="anyURI" />
+        <element name="op2" type="anyURI" />
+        <element name="op3" type="anyURI" />
+        <element name="op4" type="anyURI" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="footer">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="Voltar" type="anyURI" />
+        <element name="Siga-nos" type="string" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="RS1" type="anyURI" />
+            <element name="RS2" type="anyURI" />
+            <element name="RS3" type="anyURI" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="pag_Inicial">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="artA" type="string" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="TítuloA" type="string" />
+            <element name="ConteudoA" type="string" />
+            <element name="ImagemA" type="anyURI" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="artB" type="string" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="TítuloB" type="string" />
+            <element name="ConteudoB" type="string" />
+            <element name="Imagem1B" type="anyURI" />
+            <element name="Imagem2B" type="anyURI" />
+            <element name="Imagem3B" type="anyURI" />
+            <element name="Imagem4B" type="anyURI" />
+            <element name="ImagemB5" type="anyURI" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="artC" type="string" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="TítuloC" type="string" />
+            <element name="ConteudoC" type="string" />
+            <element name="Imagem1C" type="anyURI" />
+            <element name="Imagem2C" type="anyURI" />
+            <element name="Imagem3C" type="anyURI" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="artD" type="string" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="TítuloD" type="string" />
+            <element name="ContéudoD" type="string" />
+            <element name="Imagem1D" type="anyURI" />
+            <element name="Imagem2D" type="anyURI" />
+            <element name="Imagem3D" type="anyURI" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:sequence>
+      <element name="artE" type="string" />
+      <xs:complexType>
+        <xs:sequence>
+          <element name="TítuloE" type="string" />
+          <element name="ContéudoE" type="string" />
+          <element name="Imagem1E" type="anyURI" />
+          <element name="Imagem2E" type="anyURI" />
+          <element name="Imagem3E" type="anyURI" />
+        </xs:sequence>
+      </xs:complexType>
+      </xs:sequence>
+      <element name="artF" type="string" />
+      <xs:complexType>
+        <xs:sequence>
+          <element name="TítuloF" type="string" />
+          <element name="ContéudoF" type="string" />
+          <element name="ImagemF" type="anyURI" />
+        </xs:sequence>
+      </xs:complexType>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="noticias">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="Introdução" type="string" />
+        <element name="Not1" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN1" type="anyURI" />
+            <element name="TítuloN1" type="string" />
+            <element name="SubtítuloN1" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not2" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN2" type="anyURI" />
+            <element name="TítuloN2" type="string" />
+            <element name="SubtítuloN2" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not3" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN3" type="anyURI" />
+            <element name="TítuloN3" type="string" />
+            <element name="SubtítuloN3" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not4" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN4" type="anyURI" />
+            <element name="TítuloN4" type="string" />
+            <element name="SubtítuloN4" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not5" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN5" type="anyURI" />
+            <element name="TítuloN5" type="string" />
+            <element name="SubtítuloN5" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not6" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN6" type="anyURI" />
+            <element name="TítuloN6" type="string" />
+            <element name="SubtítuloN6" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not7" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN7" type="anyURI" />
+            <element name="TítuloN7" type="string" />
+            <element name="SubtítuloN7" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not8" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN8" type="anyURI" />
+            <element name="TítuloN8" type="string" />
+            <element name="SubtítuloN8" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+        <element name="Not9" type="anyURI" />
+        <xs:complexType>
+          <xs:sequence>
+            <element name="ImagemN9" type="anyURI" />
+            <element name="TítuloN9" type="string" />
+            <element name="SubtítuloN9" type="string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not1">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN1" type="string" />
+        <element name="SubtítuloN1" type="string" />
+        <element name="ImagemN1" type="anyURI" />
+        <element name="ConteudoN1" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not2">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN2" type="string" />
+        <element name="SubtítuloN2" type="string" />
+        <element name="ImagemN2" type="anyURI" />
+        <element name="ConteudoN2" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not3">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN3" type="string" />
+        <element name="SubtítuloN3" type="string" />
+        <element name="ImagemN3" type="anyURI" />
+        <element name="ConteudoN3" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not4">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN4" type="string" />
+        <element name="SubtítuloN4" type="string" />
+        <element name="ImagemN4" type="anyURI" />
+        <element name="ConteudoN4" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not5">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN5" type="string" />
+        <element name="SubtítuloN5" type="string" />
+        <element name="ImagemN5" type="anyURI" />
+        <element name="ConteudoN5" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not6">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN6" type="string" />
+        <element name="SubtítuloN6" type="string" />
+        <element name="ImagemN6" type="anyURI" />
+        <element name="ConteudoN6" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not7">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN7" type="string" />
+        <element name="SubtítuloN7" type="string" />
+        <element name="ImagemN7" type="anyURI" />
+        <element name="ConteudoN7" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not8">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN8" type="string" />
+        <element name="SubtítuloN8" type="string" />
+        <element name="ImagemN8" type="anyURI" />
+        <element name="ConteudoN8" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="not0">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloN9" type="string" />
+        <element name="SubtítuloN9" type="string" />
+        <element name="ImagemN9" type="anyURI" />
+        <element name="ConteudoN9" type="String" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sobre">
+    <xs:complexType>
+      <xs:sequence>
+        <element name="TítuloSN" type="string" />
+        <element name="ContéudoSN" type="string" />
+        <element name="ImagemSN" type="anyURI" />
+      </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="contacto">
+      <xs:complexType>
+      <xs:sequence>
+      <xs:element name="TítuloC" type="xs:string" />
+      <xs:element name="tabela de contacto" />
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="Nome" type="xs:string" />
+          <xs:element name="Apelido" type="xs:string" />
+          <xs:element name="Email" type="xs:string" />
+          <xs:element name="Telmóvel" type="xs:token" />
+          <xs:element name="Mensagem" type="xs:string" />
+          <xs:element name="Enviar" type="xs:anyURI" />
+          <xs:element name="Apagar" type="xs:anyURI" />
+        </xs:sequence>
+      </xs:complexType>
+    </xs:element>
+  </xs:element>
+  </xs:element>
+
+
+</xs:schema>
