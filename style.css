@@ -173,3 +173,48 @@ footer{
 .corpoNoticiasPrincipal{
     text-align: left;
 }
+
+.index{
+    background-image: url("img/fundo_index.jpg"); background-position: center; background-size: cover;background-color: lightblue;
+}
+
+.textInicial{
+    text-align: center;
+}
+.h1Inicial{
+    font-size: 60px;
+}
+.tableContact table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tableContact th, .tableContact td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.tableContact th {
+    background-color: #f2f2f2;
+}
+
+.titlePagIn{
+    font-size: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.pPagIn{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.titleSobreNos {
+    font-size: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.pSobreNos {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
