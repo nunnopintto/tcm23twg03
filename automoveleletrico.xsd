@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  targetNamespace="http://www.juicers.org"
-  xmlns:tns="http://www.juicers.org"
+  targetNamespace="https://tcm23twg03.netlify.app/"
+  xmlns:tns="https://tcm23twg03.netlify.app/"
   elementFormDefault="qualified">
 
   <xs:element name="index">

@@ -1,281 +1,489 @@
-<?xml version="1.0"?>
-<eletrico xmlns="http://www.juicers.org"
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="./automoveleletrico.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<eletrico xmlns="https://tcm23twg03.netlify.app/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://tcm23twg03.netlify.app automoveleletrico.xsd">
 
-<index>
-    <Título>Bem-vindo ao Futuro Automóvel</Título>
-    <Subtítulo>Explora as últimas novidades da industria automóvel elétrica.</Subtítulo>
-    <redi>Saiba Mais</redi>
-    <fundo>fundo.jpg</fundo>
-</index>
+    <index>
+        <Título>Bem-vindo ao Futuro Automóvel</Título>
+        <Subtítulo>Explora as últimas novidades da industria automóvel elétrica.</Subtítulo>
+        <redi>Saiba Mais</redi>
+        <fundo>fundo.jpg</fundo>
+    </index>
 
-<nav_bar>
-    <op1>Página Inicial</op1>
-    <op2>Blog/Notícias</op2>
-    <op3>Sobre Nós</op3>
-    <op4>Contactos</op4>
-</nav_bar>
+    <nav_bar>
+        <op1>Página Inicial</op1>
+        <op2>Blog/Notícias</op2>
+        <op3>Sobre Nós</op3>
+        <op4>Contactos</op4>
+    </nav_bar>
 
-<footer>
-    <Voltar>Voltar ao Ínicio</Voltar>
-    <Siga-nos>Siga-nos nas redes sociais:</Siga-nos>
-    <RS1>Facebook</RS1>
-    <RS2>Twitter</RS2>
-    <RS3>Instagram</RS3>
-</footer>
+    <footer>
+        <Voltar>Voltar ao Ínicio</Voltar>
+        <Siga-nos>Siga-nos nas redes sociais:</Siga-nos>
+        <RS1>Facebook</RS1>
+        <RS2>Twitter</RS2>
+        <RS3>Instagram</RS3>
+    </footer>
 
-<pag_Inicial>
-    <artA>
-        <Título>Tesla</Título>
-        <Conteudo>Os veículos elétricos têm uma história fascinante que remonta ao século XIX. O embrião desta inovação tecnológica pode ser atribuído a inventores como Thomas Davenport e Robert Anderson, que desenvolveram os primeiros protótipos de veículos elétricos na década de 1830. Contudo, foi apenas no final do século XIX e início do século XX que esta ideia começou a ganhar tração.
+    <pag_Inicial>
+        <artA>
+            <Título>Tesla</Título>
+            <Conteudo>Os veículos elétricos têm uma história fascinante que remonta ao século XIX. O
+                embrião desta inovação tecnológica pode ser atribuído a inventores como Thomas
+                Davenport e Robert Anderson, que desenvolveram os primeiros protótipos de veículos
+                elétricos na década de 1830. Contudo, foi apenas no final do século XIX e início do
+                século XX que esta ideia começou a ganhar tração.
 
-            Um dos marcos mais significantes na história dos veículos elétricos foi a introdução do automóvel elétrico da marca Flocken em 1888, na Alemanha. Este pioneiro veículo tinha uma autonomia limitada e, apesar de atrair a atenção, a tecnologia ainda estava em estágios iniciais de desenvolvimento. No entanto, o advento das baterias recarregáveis, como as de chumbo-ácido, impulsionou os avanços nesta área.
-            
-            Ao longo das primeiras décadas do século XX, os veículos elétricos tornaram-se populares em cidades urbanas, principalmente devido à sua operação silenciosa e ausência de emissões locais. Em Nova Iorque, por exemplo, os táxis elétricos eram comuns nas ruas durante os anos 1910. No entanto, a ascensão dos veículos a gasolina, impulsionada pela produção em massa da Ford e pela disponibilidade de combustíveis fósseis, levou a uma preferência generalizada pelos motores de combustão interna.
-            
-            Durante décadas, os veículos elétricos ficaram em segundo plano, relegados a nichos específicos, como veículos de golfe e empilhadeiras. Foi apenas na viragem do século XXI que a tecnologia dos veículos elétricos experimentou um renascimento significativo. A conscientização ambiental, as preocupações com as mudanças climáticas e avanços na tecnologia de baterias catapultaram os veículos elétricos de volta ao cenário principal.
-            
-            Empresas como a Tesla, fundada por Elon Musk, desempenharam um papel crucial na revolução dos veículos elétricos, produzindo modelos de alto desempenho com autonomia estendida. Governos em todo o mundo também incentivaram a adoção de veículos elétricos, oferecendo subsídios e infraestrutura de carregamento. À medida que a indústria automobilística avança, os veículos elétricos tornam-se uma parte cada vez mais integral do futuro da mobilidade, promovendo um paradigma mais sustentável e eficiente para o transporte rodoviário.</Conteudo>
-        <Imagem>Flocken.jpg</Imagem>
-    </artA>
-    <artA>
-        <TítuloA>Tesla</TítuloA>
-        <ConteudoA>Os veículos elétricos têm uma história fascinante que remonta ao século XIX. O embrião desta inovação tecnológica pode ser atribuído a inventores como Thomas Davenport e Robert Anderson, que desenvolveram os primeiros protótipos de veículos elétricos na década de 1830. Contudo, foi apenas no final do século XIX e início do século XX que esta ideia começou a ganhar tração.
+                Um dos marcos mais significantes na história dos veículos elétricos foi a introdução
+                do automóvel elétrico da marca Flocken em 1888, na Alemanha. Este pioneiro veículo
+                tinha uma autonomia limitada e, apesar de atrair a atenção, a tecnologia ainda
+                estava em estágios iniciais de desenvolvimento. No entanto, o advento das baterias
+                recarregáveis, como as de chumbo-ácido, impulsionou os avanços nesta área.
 
-            Um dos marcos mais significantes na história dos veículos elétricos foi a introdução do automóvel elétrico da marca Flocken em 1888, na Alemanha. Este pioneiro veículo tinha uma autonomia limitada e, apesar de atrair a atenção, a tecnologia ainda estava em estágios iniciais de desenvolvimento. No entanto, o advento das baterias recarregáveis, como as de chumbo-ácido, impulsionou os avanços nesta área.
-            
-            Ao longo das primeiras décadas do século XX, os veículos elétricos tornaram-se populares em cidades urbanas, principalmente devido à sua operação silenciosa e ausência de emissões locais. Em Nova Iorque, por exemplo, os táxis elétricos eram comuns nas ruas durante os anos 1910. No entanto, a ascensão dos veículos a gasolina, impulsionada pela produção em massa da Ford e pela disponibilidade de combustíveis fósseis, levou a uma preferência generalizada pelos motores de combustão interna.
-            
-            Durante décadas, os veículos elétricos ficaram em segundo plano, relegados a nichos específicos, como veículos de golfe e empilhadeiras. Foi apenas na viragem do século XXI que a tecnologia dos veículos elétricos experimentou um renascimento significativo. A conscientização ambiental, as preocupações com as mudanças climáticas e avanços na tecnologia de baterias catapultaram os veículos elétricos de volta ao cenário principal.
-            
-            Empresas como a Tesla, fundada por Elon Musk, desempenharam um papel crucial na revolução dos veículos elétricos, produzindo modelos de alto desempenho com autonomia estendida. Governos em todo o mundo também incentivaram a adoção de veículos elétricos, oferecendo subsídios e infraestrutura de carregamento. À medida que a indústria automobilística avança, os veículos elétricos tornam-se uma parte cada vez mais integral do futuro da mobilidade, promovendo um paradigma mais sustentável e eficiente para o transporte rodoviário.</ConteudoA>
-        <ImagemA>Flocken.jpg</ImagemA>
-    </artA>
-    <artB>
-        <TítuloB>Tesla</TítuloB>
-        <ConteudoB>A Tesla, uma empresa de tecnologia e energia sediada nos Estados Unidos, tornou-se um ícone da revolução dos veículos elétricos e da inovação no setor automotivo. Fundada em 2003 por Martin Eberhard e Marc Tarpenning, a empresa ganhou destaque quando Elon Musk, co-fundador do PayPal e empreendedor visionário, assumiu o controle da Tesla Motors em 2004.
+                Ao longo das primeiras décadas do século XX, os veículos elétricos tornaram-se
+                populares em cidades urbanas, principalmente devido à sua operação silenciosa e
+                ausência de emissões locais. Em Nova Iorque, por exemplo, os táxis elétricos eram
+                comuns nas ruas durante os anos 1910. No entanto, a ascensão dos veículos a
+                gasolina, impulsionada pela produção em massa da Ford e pela disponibilidade de
+                combustíveis fósseis, levou a uma preferência generalizada pelos motores de
+                combustão interna.
 
-            Desde o início, a Tesla estabeleceu-se como uma força disruptiva, desafiando as convenções da indústria automotiva. O seu primeiro veículo, o Tesla Roadster, lançado em 2008, foi o primeiro carro de produção em massa totalmente elétrico a utilizar uma bateria de íon de lítio, proporcionando uma autonomia notável para a época
-            
-            No entanto, foi com o lançamento do Model S em 2012 que a Tesla realmente capturou a imaginação do público e dos especialistas da indústria. Este sedan totalmente elétrico não só ofereceu um desempenho impressionante e design elegante, mas também estabeleceu novos padrões para a autonomia de veículos elétricos. A introdução do Autopilot, um sistema de assistência ao condutor, também consolidou a posição da Tesla na vanguarda da inovação tecnológica automotiva.
-            
-            A estratégia da Tesla expandiu-se para além dos carros de passageiros, abrangendo a produção de veículos utilitários, como o Model X e o Model Y, e até mesmo camiões elétricos, como o Cybertruck. Além disso, a empresa tem desempenhado um papel crucial na aceleração da transição para fontes de energia sustentáveis, oferecendo soluções de armazenamento de energia através dos seus produtos Powerwall, Powerpack e Megapack.
-            
-            O sucesso da Tesla não se resume apenas aos produtos inovadores, mas também à abordagem ousada de Musk no que diz respeito à produção e distribuição. A construção da Gigafactory, uma megafábrica de baterias em escala sem precedentes, reflete a ambição da Tesla em escalar a produção para atender à crescente demanda global por veículos elétricos.</ConteudoB>
-        <Imagem1B>tesla1.jpg</Imagem1B>
-        <Imagem2B>tesla2.jpg</Imagem2B>
-        <Imagem3B>tesla3.jpg</Imagem3B>
-        <Imagem4B>tesla 4.jpg</Imagem4B>
-        <Imagem5B>tesla5.jpg</Imagem5B>
-    </artB>
-    <artC>
-        <TítuloC>Baterias</TítuloC>
-        <ConteudoC>A tecnologia das baterias nos veículos elétricos desempenha um papel vital na transformação da mobilidade. Atualmente, as baterias de íon de lítio são as mais prevalentes nesse cenário, oferecendo uma combinação eficiente de densidade de energia, peso leve e vida útil razoável.
+                Durante décadas, os veículos elétricos ficaram em segundo plano, relegados a nichos
+                específicos, como veículos de golfe e empilhadeiras. Foi apenas na viragem do século
+                XXI que a tecnologia dos veículos elétricos experimentou um renascimento
+                significativo. A conscientização ambiental, as preocupações com as mudanças
+                climáticas e avanços na tecnologia de baterias catapultaram os veículos elétricos de
+                volta ao cenário principal.
 
-            Essas baterias operam com base na transferência de íons de lítio entre eletrodos durante os ciclos de carga e descarga. A constante pesquisa e desenvolvimento visam melhorar sua densidade energética, permitindo que os veículos elétricos alcancem maiores autonomias sem comprometer a eficiência.
-            
-            A gestão térmica tornou-se uma consideração essencial. Sistemas avançados monitoram e controlam a temperatura das baterias para otimizar o desempenho e prolongar a vida útil, especialmente durante carregamentos rápidos. Essa inovação é crucial para garantir a segurança e a eficiência das baterias em diversas condições climáticas.
-            
-            A tecnologia das baterias é um campo dinâmico e inovador, moldando o futuro da mobilidade elétrica. Com avanços contínuos, podemos esperar que os veículos elétricos se tornem ainda mais acessíveis, eficientes e ambientalmente sustentáveis, marcando uma mudança significativa na paisagem automotiva global.</ConteudoC>
-        <Imagem1C>bateria1.jpg</Imagem1C>
-        <Imagem2C>bateria2.jpg</Imagem2C>
-        <Imagem3C>bateria3.jpg</Imagem3C>
-    </artC>
-    <artD>
-        <TítuloD>Estações de Carregamento</TítuloD>
-        <ConteudoD>As estações de carregamento de carros elétricos desempenham um papel crucial na expansão e aceitação da mobilidade elétrica. Essas infraestruturas são projetadas para fornecer uma carga rápida e eficiente aos veículos, oferecendo comodidade e confiança aos proprietários de carros elétricos.
+                Empresas como a Tesla, fundada por Elon Musk, desempenharam um papel crucial na
+                revolução dos veículos elétricos, produzindo modelos de alto desempenho com
+                autonomia estendida. Governos em todo o mundo também incentivaram a adoção de
+                veículos elétricos, oferecendo subsídios e infraestrutura de carregamento. À medida
+                que a indústria automobilística avança, os veículos elétricos tornam-se uma parte
+                cada vez mais integral do futuro da mobilidade, promovendo um paradigma mais
+                sustentável e eficiente para o transporte rodoviário.</Conteudo>
+            <Imagem>Flocken.jpg</Imagem>
+        </artA>
+        <artA>
+            <TítuloA>Tesla</TítuloA>
+            <ConteudoA>Os veículos elétricos têm uma história fascinante que remonta ao século XIX.
+                O embrião desta inovação tecnológica pode ser atribuído a inventores como Thomas
+                Davenport e Robert Anderson, que desenvolveram os primeiros protótipos de veículos
+                elétricos na década de 1830. Contudo, foi apenas no final do século XIX e início do
+                século XX que esta ideia começou a ganhar tração.
 
-            Localizadas estrategicamente em áreas urbanas, autoestradas e locais de destaque, as estações de carregamento vêm em diferentes formatos. Desde os carregadores domésticos, que permitem que os proprietários recarreguem seus veículos durante a noite, até as estações de carregamento rápido, que possibilitam carregamentos em minutos, a infraestrutura está a expandir para atender às diversas necessidades dos condutores.
-            
-            O desenvolvimento de tecnologias como carregadores de indução sem fio também está a contribuir para a conveniência, eliminando a necessidade de conexões físicas durante o carregamento. A integração de soluções inteligentes permite o monitoramento remoto e a gestão eficiente da energia, otimizando o desempenho da rede de estações de carregamento.</ConteudoD>
-        <Imagem1D>carregamento1.jpg</Imagem1D>
-        <Imagem2D>carregamento2.jpg</Imagem2D>
-        <Imagem3D>carregamento3.jpg</Imagem3D>
-    </artD>
-    <artE>
-        <TítuloE>Automobilismo elétrico</TítuloE>
-        <ConteudoE>Os desportos automóveis com veículos elétricos representam uma emocionante fronteira na indústria automotiva, onde a potência silenciosa e a eficiência se aliam à paixão pela velocidade e competição. Estas competições estão a moldar um novo capítulo na história dos desportos motorizados, destacando não apenas a inovação tecnológica, mas também o compromisso com a sustentabilidade ambiental.
+                Um dos marcos mais significantes na história dos veículos elétricos foi a introdução
+                do automóvel elétrico da marca Flocken em 1888, na Alemanha. Este pioneiro veículo
+                tinha uma autonomia limitada e, apesar de atrair a atenção, a tecnologia ainda
+                estava em estágios iniciais de desenvolvimento. No entanto, o advento das baterias
+                recarregáveis, como as de chumbo-ácido, impulsionou os avanços nesta área.
 
-            Uma das séries mais proeminentes é a Fórmula E, que serve como o principal campeonato de monolugares totalmente elétricos. Com corridas realizadas em circuitos urbanos, a Fórmula E atrai tanto entusiastas de corridas quanto defensores da mobilidade sustentável. Os carros elétricos de alta performance, capazes de acelerar de 0 a 100 km/h em poucos segundos, demonstram o potencial emocionante da tecnologia elétrica.
-            
-            A competição não se limita apenas aos monolugares. Rallys elétricos, como o Extreme E, levam a competição para ambientes off-road extremos, destacando a versatilidade dos veículos elétricos em condições desafiadoras. Estas corridas também servem como plataformas para destacar questões ambientais, promovendo a conscientização sobre a preservação dos ecossistemas.
-            
-            Estas competições não só aceleram o desenvolvimento da tecnologia de veículos elétricos, mas também desafiam as perceções tradicionais sobre desportos motorizados. À medida que as equipas de corrida, fabricantes de automóveis e entusiastas abraçam a eletrificação, os desportos automóveis elétricos emergem não apenas como eventos emocionantes, mas como catalisadores para uma mudança positiva no cenário automotivo global.</ConteudoE>
-        <Imagem1E>carregamento1.jpg</Imagem1E>
-        <Imagem2E>carregamento2.jpg</Imagem2E>
-        <Imagem3E>carregamento3.jpg</Imagem3E>
-    </artE>
-    <artF>
-        <TítuloF>Conclusão</TítuloF>
-        <ConteudoF>À medida que concluímos esta exploração do universo dos veículos elétricos, torna-se claro que estamos a testemunhar mais do que uma simples mudança no paradigma dos transportes. Estamos, de facto, diante de uma revolução que redefine a mobilidade, desafiando normas estabelecidas e moldando um futuro mais sustentável.
+                Ao longo das primeiras décadas do século XX, os veículos elétricos tornaram-se
+                populares em cidades urbanas, principalmente devido à sua operação silenciosa e
+                ausência de emissões locais. Em Nova Iorque, por exemplo, os táxis elétricos eram
+                comuns nas ruas durante os anos 1910. No entanto, a ascensão dos veículos a
+                gasolina, impulsionada pela produção em massa da Ford e pela disponibilidade de
+                combustíveis fósseis, levou a uma preferência generalizada pelos motores de
+                combustão interna.
 
-            Os veículos elétricos não são apenas uma resposta às preocupações ambientais, mas uma celebração da inovação e do progresso tecnológico. À medida que avançamos para uma era em que a eficiência e a consciência ambiental convergem, os veículos elétricos destacam-se como pioneiros, impulsionando-nos em direção a um horizonte de mobilidade mais limpa e responsável.
-            
-            A jornada dos veículos elétricos está longe de terminar. À medida que a tecnologia evolui, os obstáculos são superados e a aceitação expande-se, a visão de um futuro onde os veículos elétricos dominam as estradas parece mais tangível do que nunca. Que este seja o prelúdio para uma era de transporte mais sustentável, onde a eletrificação não é apenas uma escolha, mas sim a norma</ConteudoF>
-        <ImagemF>conclusao.jpg</ImagemF>
-    </artF>
-</pag_Inicial>
+                Durante décadas, os veículos elétricos ficaram em segundo plano, relegados a nichos
+                específicos, como veículos de golfe e empilhadeiras. Foi apenas na viragem do século
+                XXI que a tecnologia dos veículos elétricos experimentou um renascimento
+                significativo. A conscientização ambiental, as preocupações com as mudanças
+                climáticas e avanços na tecnologia de baterias catapultaram os veículos elétricos de
+                volta ao cenário principal.
 
-<noticias>
-    <Introdução>Descubra as mais recentes noticias no mundo tecnológico automóvel</Introdução>
+                Empresas como a Tesla, fundada por Elon Musk, desempenharam um papel crucial na
+                revolução dos veículos elétricos, produzindo modelos de alto desempenho com
+                autonomia estendida. Governos em todo o mundo também incentivaram a adoção de
+                veículos elétricos, oferecendo subsídios e infraestrutura de carregamento. À medida
+                que a indústria automobilística avança, os veículos elétricos tornam-se uma parte
+                cada vez mais integral do futuro da mobilidade, promovendo um paradigma mais
+                sustentável e eficiente para o transporte rodoviário.</ConteudoA>
+            <ImagemA>Flocken.jpg</ImagemA>
+        </artA>
+        <artB>
+            <TítuloB>Tesla</TítuloB>
+            <ConteudoB>A Tesla, uma empresa de tecnologia e energia sediada nos Estados Unidos,
+                tornou-se um ícone da revolução dos veículos elétricos e da inovação no setor
+                automotivo. Fundada em 2003 por Martin Eberhard e Marc Tarpenning, a empresa ganhou
+                destaque quando Elon Musk, co-fundador do PayPal e empreendedor visionário, assumiu
+                o controle da Tesla Motors em 2004.
+
+                Desde o início, a Tesla estabeleceu-se como uma força disruptiva, desafiando as
+                convenções da indústria automotiva. O seu primeiro veículo, o Tesla Roadster,
+                lançado em 2008, foi o primeiro carro de produção em massa totalmente elétrico a
+                utilizar uma bateria de íon de lítio, proporcionando uma autonomia notável para a
+                época
+
+                No entanto, foi com o lançamento do Model S em 2012 que a Tesla realmente capturou a
+                imaginação do público e dos especialistas da indústria. Este sedan totalmente
+                elétrico não só ofereceu um desempenho impressionante e design elegante, mas também
+                estabeleceu novos padrões para a autonomia de veículos elétricos. A introdução do
+                Autopilot, um sistema de assistência ao condutor, também consolidou a posição da
+                Tesla na vanguarda da inovação tecnológica automotiva.
+
+                A estratégia da Tesla expandiu-se para além dos carros de passageiros, abrangendo a
+                produção de veículos utilitários, como o Model X e o Model Y, e até mesmo camiões
+                elétricos, como o Cybertruck. Além disso, a empresa tem desempenhado um papel
+                crucial na aceleração da transição para fontes de energia sustentáveis, oferecendo
+                soluções de armazenamento de energia através dos seus produtos Powerwall, Powerpack
+                e Megapack.
+
+                O sucesso da Tesla não se resume apenas aos produtos inovadores, mas também à
+                abordagem ousada de Musk no que diz respeito à produção e distribuição. A construção
+                da Gigafactory, uma megafábrica de baterias em escala sem precedentes, reflete a
+                ambição da Tesla em escalar a produção para atender à crescente demanda global por
+                veículos elétricos.</ConteudoB>
+            <Imagem1B>tesla1.jpg</Imagem1B>
+            <Imagem2B>tesla2.jpg</Imagem2B>
+            <Imagem3B>tesla3.jpg</Imagem3B>
+            <Imagem4B>tesla4.jpg</Imagem4B>
+            <Imagem5B>tesla5.jpg</Imagem5B>
+        </artB>
+        <artC>
+            <TítuloC>Baterias</TítuloC>
+            <ConteudoC>A tecnologia das baterias nos veículos elétricos desempenha um papel vital na
+                transformação da mobilidade. Atualmente, as baterias de íon de lítio são as mais
+                prevalentes nesse cenário, oferecendo uma combinação eficiente de densidade de
+                energia, peso leve e vida útil razoável.
+
+                Essas baterias operam com base na transferência de íons de lítio entre eletrodos
+                durante os ciclos de carga e descarga. A constante pesquisa e desenvolvimento visam
+                melhorar sua densidade energética, permitindo que os veículos elétricos alcancem
+                maiores autonomias sem comprometer a eficiência.
+
+                A gestão térmica tornou-se uma consideração essencial. Sistemas avançados monitoram
+                e controlam a temperatura das baterias para otimizar o desempenho e prolongar a vida
+                útil, especialmente durante carregamentos rápidos. Essa inovação é crucial para
+                garantir a segurança e a eficiência das baterias em diversas condições climáticas.
+
+                A tecnologia das baterias é um campo dinâmico e inovador, moldando o futuro da
+                mobilidade elétrica. Com avanços contínuos, podemos esperar que os veículos
+                elétricos se tornem ainda mais acessíveis, eficientes e ambientalmente sustentáveis,
+                marcando uma mudança significativa na paisagem automotiva global.</ConteudoC>
+            <Imagem1C>bateria1.jpg</Imagem1C>
+            <Imagem2C>bateria2.jpg</Imagem2C>
+            <Imagem3C>bateria3.jpg</Imagem3C>
+        </artC>
+        <artD>
+            <TítuloD>Estações de Carregamento</TítuloD>
+            <ConteudoD>As estações de carregamento de carros elétricos desempenham um papel crucial
+                na expansão e aceitação da mobilidade elétrica. Essas infraestruturas são projetadas
+                para fornecer uma carga rápida e eficiente aos veículos, oferecendo comodidade e
+                confiança aos proprietários de carros elétricos.
+
+                Localizadas estrategicamente em áreas urbanas, autoestradas e locais de destaque, as
+                estações de carregamento vêm em diferentes formatos. Desde os carregadores
+                domésticos, que permitem que os proprietários recarreguem seus veículos durante a
+                noite, até as estações de carregamento rápido, que possibilitam carregamentos em
+                minutos, a infraestrutura está a expandir para atender às diversas necessidades dos
+                condutores.
+
+                O desenvolvimento de tecnologias como carregadores de indução sem fio também está a
+                contribuir para a conveniência, eliminando a necessidade de conexões físicas durante
+                o carregamento. A integração de soluções inteligentes permite o monitoramento remoto
+                e a gestão eficiente da energia, otimizando o desempenho da rede de estações de
+                carregamento.</ConteudoD>
+            <Imagem1D>carregamento1.jpg</Imagem1D>
+            <Imagem2D>carregamento2.jpg</Imagem2D>
+            <Imagem3D>carregamento3.jpg</Imagem3D>
+        </artD>
+        <artE>
+            <TítuloE>Automobilismo elétrico</TítuloE>
+            <ConteudoE>Os desportos automóveis com veículos elétricos representam uma emocionante
+                fronteira na indústria automotiva, onde a potência silenciosa e a eficiência se
+                aliam à paixão pela velocidade e competição. Estas competições estão a moldar um
+                novo capítulo na história dos desportos motorizados, destacando não apenas a
+                inovação tecnológica, mas também o compromisso com a sustentabilidade ambiental.
+
+                Uma das séries mais proeminentes é a Fórmula E, que serve como o principal
+                campeonato de monolugares totalmente elétricos. Com corridas realizadas em circuitos
+                urbanos, a Fórmula E atrai tanto entusiastas de corridas quanto defensores da
+                mobilidade sustentável. Os carros elétricos de alta performance, capazes de acelerar
+                de 0 a 100 km/h em poucos segundos, demonstram o potencial emocionante da tecnologia
+                elétrica.
+
+                A competição não se limita apenas aos monolugares. Rallys elétricos, como o Extreme
+                E, levam a competição para ambientes off-road extremos, destacando a versatilidade
+                dos veículos elétricos em condições desafiadoras. Estas corridas também servem como
+                plataformas para destacar questões ambientais, promovendo a conscientização sobre a
+                preservação dos ecossistemas.
+
+                Estas competições não só aceleram o desenvolvimento da tecnologia de veículos
+                elétricos, mas também desafiam as perceções tradicionais sobre desportos
+                motorizados. À medida que as equipas de corrida, fabricantes de automóveis e
+                entusiastas abraçam a eletrificação, os desportos automóveis elétricos emergem não
+                apenas como eventos emocionantes, mas como catalisadores para uma mudança positiva
+                no cenário automotivo global.</ConteudoE>
+            <Imagem1E>carregamento1.jpg</Imagem1E>
+            <Imagem2E>carregamento2.jpg</Imagem2E>
+            <Imagem3E>carregamento3.jpg</Imagem3E>
+        </artE>
+        <artF>
+            <TítuloF>Conclusão</TítuloF>
+            <ConteudoF>À medida que concluímos esta exploração do universo dos veículos elétricos,
+                torna-se claro que estamos a testemunhar mais do que uma simples mudança no
+                paradigma dos transportes. Estamos, de facto, diante de uma revolução que redefine a
+                mobilidade, desafiando normas estabelecidas e moldando um futuro mais sustentável.
+
+                Os veículos elétricos não são apenas uma resposta às preocupações ambientais, mas
+                uma celebração da inovação e do progresso tecnológico. À medida que avançamos para
+                uma era em que a eficiência e a consciência ambiental convergem, os veículos
+                elétricos destacam-se como pioneiros, impulsionando-nos em direção a um horizonte de
+                mobilidade mais limpa e responsável.
+
+                A jornada dos veículos elétricos está longe de terminar. À medida que a tecnologia
+                evolui, os obstáculos são superados e a aceitação expande-se, a visão de um futuro
+                onde os veículos elétricos dominam as estradas parece mais tangível do que nunca.
+                Que este seja o prelúdio para uma era de transporte mais sustentável, onde a
+                eletrificação não é apenas uma escolha, mas sim a norma</ConteudoF>
+            <ImagemF>conclusao.jpg</ImagemF>
+        </artF>
+    </pag_Inicial>
+
+    <noticias>
+        <Introdução>Descubra as mais recentes noticias no mundo tecnológico automóvel</Introdução>
+        <not1>
+            <ImagemN1>not1.webp</ImagemN1>
+            <TítuloN1>Mercedes não acredita nas baterias de estado sólido. Conheça os motivos
+            </TítuloN1>
+            <SubtítuloN1>As vantagens das baterias de estado sólido podem ser ultrapassadas pelos
+                desenvolvimentos das baterias de iões de lítio, afirma a Mercedes.</SubtítuloN1>
+        </not1>
+        <not2>
+            <ImagemN2>not2.jpeg</ImagemN2>
+            <TítuloN2>O maior rival do Model 3? Os preços do BYD Seal para Portugal</TítuloN2>
+            <SubtítuloN2>O BYD Seal acaba de chegar ao mercado português e nós já sabemos os preços.
+                A versão mais potente entrega 530 cv de potência e acelera até aos 100 km/h em 3,8s</SubtítuloN2>
+        </not2>
+        <not3>
+            <ImagemN3>not3.webp</ImagemN3>
+            <TítuloN3>Elétricos chegam ao Top 10 dos carros mais vendidos em Portugal em 2023</TítuloN3>
+            <SubtítuloN3>As surpresas entre os 10 carros mais vendidos em Portugal em 2023 não se
+                encontram no pódio, mas a meio da tabela. E são eletrizantes.</SubtítuloN3>
+        </not3>
+        <not4>
+            <ImagemN4>not4.webp</ImagemN4>
+            <TítuloN4>Bateria nuclear apresentada. Dura 50 anos sem precisar de ser carregada</TítuloN4>
+            <SubtítuloN4>A chinesa Betavolt apresentou uma bateria atómica, de energia nuclear. A
+                empresa garante que é segura e amiga do ambiente.</SubtítuloN4>
+        </not4>
+        <not5>
+            <ImagemN5>not5.jpeg</ImagemN5>
+            <TítuloN5>BYD estreia «supernavio» com truque para escapar às sanções europeias</TítuloN5>
+            <SubtítuloN5>O BYD Explorer N.º 1 tem mais de 200 m de comprimento e foi desenvolvido
+                para ser dos mais eficientes do mundo. É movido a gás natural.</SubtítuloN5>
+        </not5>
+        <not6>
+            <ImagemN6>not6.jpeg</ImagemN6>
+            <TítuloN6>Ataques no Mar Vermelho. Tesla e Volvo suspendem temporariamente produção na
+                Europa</TítuloN6>
+            <SubtítuloN6>Há uma rota alternativa para evitar ataques no Mar Vermelho. Demora mais
+                tempo, é mais cara e está a provocar atrasos na entrega de componentes.</SubtítuloN6>
+        </not6>
+        <not7>
+            <ImagemN7>not7.jpeg</ImagemN7>
+            <TítuloN7>Caminhos opostos. Hertz Portugal vai continuar a reforçar frota elétrica</TítuloN7>
+            <SubtítuloN7>Ao contrário do que vai fazer em «casa», nos EUA, a Hertz vai continuar a
+                reforçar a frota de automóveis 100% elétricos em Portugal</SubtítuloN7>
+        </not7>
+        <not8>
+            <ImagemN8>not8.webp</ImagemN8>
+            <TítuloN8>Esqueça o híbrido. Este Lexus LBX com motor do GR Yaris precisa de acontecer</TítuloN8>
+            <SubtítuloN8>m Toyota GR Yaris para a família? É assim que podemos olhar para o novo
+                Lexus LBX Morizo RR Concept. Será que vai mesmo acontecer?</SubtítuloN8>
+        </not8>
+        <not9>
+            <ImagemN9>not9.jpeg</ImagemN9>
+            <TítuloN9>Model S Plaid na mira. BYD revela berlina com mais de 1000 cv</TítuloN9>
+            <SubtítuloN9>Denominada YangWang U7, a nova «super berlina» da BYD deve apostar numa
+                configuração com quatro motores elétricos e ultrapassar os 1000 cv.</SubtítuloN9>
+        </not9>
+    </noticias>
+
     <not1>
         <ImagemN1>not1.webp</ImagemN1>
         <TítuloN1>Mercedes não acredita nas baterias de estado sólido. Conheça os motivos
         </TítuloN1>
-        <SubtítuloN1>As vantagens das baterias de estado sólido podem ser ultrapassadas pelos desenvolvimentos das baterias de iões de lítio, afirma a Mercedes.</SubtítuloN1>
+        <SubtítuloN1>As vantagens das baterias de estado sólido podem ser ultrapassadas pelos
+            desenvolvimentos das baterias de iões de lítio, afirma a Mercedes.</SubtítuloN1>
+        <ConteudoN1>As baterias de estado sólido têm sido anunciadas como a grande promessa para o
+            futuro dos carros elétricos.
+            Tal deve-se, principalmente, à sua densidade energética muito superior às atuais
+            baterias de iões de lítio (com eletrólito líquido). Uma característica que deverá
+            permitir, para a mesma capacidade, uma bateria fisicamente mais pequena e leve, com
+            óbvias vantagens em matéria de packaging e peso total do veículo.
+
+            A Mercedes-Benz, no entanto, parece ter outra perspetiva. Durante o CES 2024, numa mesa
+            redonda, o diretor tecnológico da marca, Markus Schäfer, afirmou que o futuro poderá não
+            passar pelas baterias de estado sólido, apesar de estas, em termos de segurança,
+            continuarem a possuir uma maior vantagem.</ConteudoN1>
     </not1>
     <not2>
         <ImagemN2>not2.jpeg</ImagemN2>
         <TítuloN2>O maior rival do Model 3? Os preços do BYD Seal para Portugal</TítuloN2>
-        <SubtítuloN2>O BYD Seal acaba de chegar ao mercado português e nós já sabemos os preços. A versão mais potente entrega 530 cv de potência e acelera até aos 100 km/h em 3,8s</SubtítuloN2>
+        <SubtítuloN2>O BYD Seal acaba de chegar ao mercado português e nós já sabemos os preços. A
+            versão mais potente entrega 530 cv de potência e acelera até aos 100 km/h em 3,8s</SubtítuloN2>
+        <ConteudoN2>As baterias de estado sólido têm sido anunciadas como a grande promessa para o
+            futuro dos carros elétricos.
+            Depois do Han, do Tang, do Atto 3 e do Dolphin, a ofensiva da BYD no mercado continua,
+            com o lançamento do Seal, uma berlina executiva que chega com a «mira» apontada a
+            modelos como o Tesla Model 3, o Polestar 2 e o Hyundai IONIQ 6.
+            Já disponível para encomenda, o novo BYD Seal apresenta-se no mercado nacional com duas
+            versões distintas: Design (tração traseira) e Excellence (tração integral).
+            O Seal Design, com apenas um motor e tração traseira, entrega 230 kW (313 cv) de
+            potência e anuncia um sprint dos 0 aos 100 km/h em 5,9s, ao mesmo tempo que tem uma
+            autonomia (ciclo combinado WLTP) fixada nos 570 km.</ConteudoN2>
     </not2>
     <not3>
         <ImagemN3>not3.webp</ImagemN3>
         <TítuloN3>Elétricos chegam ao Top 10 dos carros mais vendidos em Portugal em 2023</TítuloN3>
-        <SubtítuloN3>As surpresas entre os 10 carros mais vendidos em Portugal em 2023 não se encontram no pódio, mas a meio da tabela. E são eletrizantes.</SubtítuloN3>
+        <SubtítuloN3>As surpresas entre os 10 carros mais vendidos em Portugal em 2023 não se
+            encontram no pódio, mas a meio da tabela. E são eletrizantes.</SubtítuloN3>
+        <ConteudoN3>Depois de sabermos quais foram as marcas mais vendidas, hoje ficamos a saber
+            quais foram os 10 carros mais vendidos em Portugal em 2023.
+            Antes disso, importa recordar que 2023 foi um ano de recuperação do mercado nacional,
+            ainda devido à pandemia e a todas as crises que a ela se seguiram. O mercado cresceu
+            26,1% face a 2022 e ultrapassou as 236 mil unidades, quando contabilizamos os ligeiros e
+            pesados.
+            O pódio das marcas mais vendidas de 2023 foi exatamente o mesmo de 2022, encimado pela
+            Peugeot e seguida pela Renault e Mercedes-Benz. Curiosamente, na lista dos carros mais
+            vendidos em Portugal em 2023, podemos constatar o mesmo: o pódio deste ano é idêntico ao
+            do ano passado.</ConteudoN3>
     </not3>
     <not4>
         <ImagemN4>not4.webp</ImagemN4>
         <TítuloN4>Bateria nuclear apresentada. Dura 50 anos sem precisar de ser carregada</TítuloN4>
-        <SubtítuloN4>A chinesa Betavolt apresentou uma bateria atómica, de energia nuclear. A empresa garante que é segura e amiga do ambiente.</SubtítuloN4>
+        <SubtítuloN4>A chinesa Betavolt apresentou uma bateria atómica, de energia nuclear. A
+            empresa garante que é segura e amiga do ambiente.</SubtítuloN4>
+        <ConteudoN4>A empresa chinesa Betavolt apresentou a sua bateria nuclear, de energia atómica
+            em que uma carga é suficiente para 50 anos de energia estável, sem necessidades de
+            recarregamento ou mesmo de manutenção.
+            Não é ficção científica. Esta solução para o mundo civil acaba de entrar na fase piloto,
+            passando brevemente a ser produzida em massa e disponibilizada no mercado.
+            A Betavolt está a apontar a sua nova bateria para equipamentos da indústria aeroespacial
+            ou médica, mas também para dispositivos de IA (Inteligência Artificial), sensores,
+            drones e outros.
+            Smartphones que nunca precisam de ser carregados ou drones com tempos de voo contínuos?
+            São algumas das possibilidades que esta bateria atómica oferece.</ConteudoN4>
     </not4>
     <not5>
         <ImagemN5>not5.jpeg</ImagemN5>
         <TítuloN5>BYD estreia «supernavio» com truque para escapar às sanções europeias</TítuloN5>
-        <SubtítuloN5>O BYD Explorer N.º 1 tem mais de 200 m de comprimento e foi desenvolvido para ser dos mais eficientes do mundo. É movido a gás natural.</SubtítuloN5>
+        <SubtítuloN5>O BYD Explorer N.º 1 tem mais de 200 m de comprimento e foi desenvolvido para
+            ser dos mais eficientes do mundo. É movido a gás natural.</SubtítuloN5>
+        <ConteudoN5>Chama-se BYD Explorer N.º 1 e, apesar do nome digno de uma missão da NASA, não é
+            um foguetão. Trata-se, isso sim, de um supernavio cuja missão é transportar carros
+            elétricos fabricados na China para o mercado europeu.
+            Tem capacidade para transportar até 7000 carros, mas como veremos adiante, esta é apenas
+            umas das muitas características que esta «cidade flutuante» tem para mostrar. A sua
+            primeira viagem para Europa teve início este mês e tem como destino final a Alemanha.
+            É o primeiro exemplar de uma nova geração de navios Ro-Ro (diminutivo de Roll-off e
+            Roll-on) — um tipo de embarcação da qual já falámos extensivamente neste artigo —
+            produzido pelos estaleiros da China International Marine Containers Group Co, operado
+            pela Zodiac Maritime Ltd, e que estará ao serviço exclusivo da BYD.</ConteudoN5>
     </not5>
     <not6>
         <ImagemN6>not6.jpeg</ImagemN6>
-        <TítuloN6>Ataques no Mar Vermelho. Tesla e Volvo suspendem temporariamente produção na Europa</TítuloN6>
-        <SubtítuloN6>Há uma rota alternativa para evitar ataques no Mar Vermelho. Demora mais tempo, é mais cara e está a provocar atrasos na entrega de componentes.</SubtítuloN6>
+        <TítuloN6>Ataques no Mar Vermelho. Tesla e Volvo suspendem temporariamente produção na
+            Europa</TítuloN6>
+        <SubtítuloN6>Há uma rota alternativa para evitar ataques no Mar Vermelho. Demora mais tempo,
+            é mais cara e está a provocar atrasos na entrega de componentes.</SubtítuloN6>
+        <ConteudoN6>Os ataques no Mar Vermelho a navios de carga por parte dos Houthis, grupo armado
+            do Iémen, começam a provocar restrições também na produção automóvel.
+            São vários os construtores que dependem de rotas no Mar Vermelho — Canal do Suez — para
+            obterem os componentes necessários ao fabrico de automóveis, principalmente elétricos.
+            De acordo com dados da SeP Market Intelligence, foi da Ásia que chegaram 67% das
+            importações europeias de componentes para a produção de baterias, até 30 de setembro. É
+            também do continente Asiático que chegam à Europa 2/3 das baterias de iões de lítio.
+            As restrições de passagem no Canal do Suez, a rota marítima mais rápida entre a Ásia e a
+            Europa, estão a ter um impacto crescente à escala global: 12% do comércio marítimo
+            mundial em contentores passa por ali.</ConteudoN6>
     </not6>
     <not7>
         <ImagemN7>not7.jpeg</ImagemN7>
         <TítuloN7>Caminhos opostos. Hertz Portugal vai continuar a reforçar frota elétrica</TítuloN7>
-        <SubtítuloN7>Ao contrário do que vai fazer em «casa», nos EUA, a Hertz vai continuar a reforçar a frota de automóveis 100% elétricos em Portugal</SubtítuloN7>
+        <SubtítuloN7>Ao contrário do que vai fazer em «casa», nos EUA, a Hertz vai continuar a
+            reforçar a frota de automóveis 100% elétricos em Portugal</SubtítuloN7>
+        <ConteudoN7>A Hertz anunciou, na passada semana, que vai vender um terço da sua frota de
+            automóveis elétricos nos Estados Unidos da América (EUA), cerca de 20 000 veículos, para
+            voltar a comprar modelos com motor de combustão.
+            A gigante norte-americana do aluguer de automóveis justifica esta decisão com as
+            despesas elevadas relacionadas com colisões e com a baixa procura por parte dos
+            clientes, desistindo assim do objetivo de converter 25% da sua frota total para
+            elétricos, como chegou a anunciar.
+            A juntar a isso, a descida dos preços dos elétricos nos automóveis novos que se
+            verificou em 2023 reduziu o valor de revenda dos modelos elétricos usados da Hertz,
+            fator que também terá pesado nesta decisão.</ConteudoN7>
     </not7>
     <not8>
         <ImagemN8>not8.webp</ImagemN8>
         <TítuloN8>Esqueça o híbrido. Este Lexus LBX com motor do GR Yaris precisa de acontecer</TítuloN8>
-        <SubtítuloN8>m Toyota GR Yaris para a família? É assim que podemos olhar para o novo Lexus LBX Morizo RR Concept. Será que vai mesmo acontecer?</SubtítuloN8>
+        <SubtítuloN8>m Toyota GR Yaris para a família? É assim que podemos olhar para o novo Lexus
+            LBX Morizo RR Concept. Será que vai mesmo acontecer?</SubtítuloN8>
+        <ConteudoN8>A Lexus acaba de apresentar, no Tokyo Auto Salon, uma versão de alto rendimento
+            do pequeno LBX, denominada Morizo RR Concept.
+            Nesta variante, a motorização híbrida do SUV mais pequeno da Lexus, que conduzimos
+            recentemente em Valência, caiu por terra e abriu espaço para o motor G16E-GTS, que é o
+            mesmo que encontramos no Toyota GR Yaris.
+            Associado a uma nova caixa automática de oito velocidades, que o Guilherme já testou em
+            pista, este motor turbo de três cilindros e 1,6 l é capaz de entregar 300 cv de potência
+            e 400 Nm de binário máximo, que são enviados às quatro rodas.</ConteudoN8>
     </not8>
     <not9>
         <ImagemN9>not9.jpeg</ImagemN9>
-    <TítuloN9>Model S Plaid na mira. BYD revela berlina com mais de 1000 cv</TítuloN9>
-    <SubtítuloN9>Denominada YangWang U7, a nova «super berlina» da BYD deve apostar numa configuração com quatro motores elétricos e ultrapassar os 1000 cv.</SubtítuloN9>
+        <TítuloN9>Model S Plaid na mira. BYD revela berlina com mais de 1000 cv</TítuloN9>
+        <SubtítuloN9>Denominada YangWang U7, a nova «super berlina» da BYD deve apostar numa
+            configuração com quatro motores elétricos e ultrapassar os 1000 cv.</SubtítuloN9>
+        <ConteudoN9>Não têm sido semanas fáceis para o Tesla Model S Plaid. Depois do tempo «canhão»
+            do novo Porsche Taycan no Nürburgring, eis que a berlina norte-americana acaba de ganhar
+            um novo rival, o YangWang U7.
+            Apresentada oficialmente na China, esta nova berlina adota a mais recente linguagem
+            visual da BYD e apresenta-se com mais de 1000 cv de potência, assentes na nova
+            plataforma de alto rendimento da construtora chinesa.
+            A YangWang é a divisão premium que a BYD criou no início de 2023 e da qual já conhecemos
+            o superdesportivo U9, que já vimos… dançar. Também já conhecemos o U8, um SUV capaz de
+            flutuar. Agora é a vez do U7, o terceiro modelo desta submarca.</ConteudoN9>
     </not9>
-</noticias>
 
-<not1>
-    <ImagemN1>not1.webp</ImagemN1>
-    <TítuloN1>Mercedes não acredita nas baterias de estado sólido. Conheça os motivos
-    </TítuloN1>
-    <SubtítuloN1>As vantagens das baterias de estado sólido podem ser ultrapassadas pelos desenvolvimentos das baterias de iões de lítio, afirma a Mercedes.</SubtítuloN1>
-    <ConteudoN1>As baterias de estado sólido têm sido anunciadas como a grande promessa para o futuro dos carros elétricos.
-        Tal deve-se, principalmente, à sua densidade energética muito superior às atuais baterias de iões de lítio (com eletrólito líquido). Uma característica que deverá permitir, para a mesma capacidade, uma bateria fisicamente mais pequena e leve, com óbvias vantagens em matéria de packaging e peso total do veículo.
-        
-        A Mercedes-Benz, no entanto, parece ter outra perspetiva. Durante o CES 2024, numa mesa redonda, o diretor tecnológico da marca, Markus Schäfer, afirmou que o futuro poderá não passar pelas baterias de estado sólido, apesar de estas, em termos de segurança, continuarem a possuir uma maior vantagem.</ConteudoN1>
-</not1>
-<not2>
-    <ImagemN2>not2.jpeg</ImagemN2>
-    <TítuloN2>O maior rival do Model 3? Os preços do BYD Seal para Portugal</TítuloN2>
-    <SubtítuloN2>O BYD Seal acaba de chegar ao mercado português e nós já sabemos os preços. A versão mais potente entrega 530 cv de potência e acelera até aos 100 km/h em 3,8s</SubtítuloN2>
-    <ConteudoN2>As baterias de estado sólido têm sido anunciadas como a grande promessa para o futuro dos carros elétricos.
-        Depois do Han, do Tang, do Atto 3 e do Dolphin, a ofensiva da BYD no mercado continua, com o lançamento do Seal, uma berlina executiva que chega com a «mira» apontada a modelos como o Tesla Model 3, o Polestar 2 e o Hyundai IONIQ 6.
-        Já disponível para encomenda, o novo BYD Seal apresenta-se no mercado nacional com duas versões distintas: Design (tração traseira) e Excellence (tração integral).
-        O Seal Design, com apenas um motor e tração traseira, entrega 230 kW (313 cv) de potência e anuncia um sprint dos 0 aos 100 km/h em 5,9s, ao mesmo tempo que tem uma autonomia (ciclo combinado WLTP) fixada nos 570 km.</ConteudoN2>
-</not2>
-<not3>
-    <ImagemN3>not3.webp</ImagemN3>
-    <TítuloN3>Elétricos chegam ao Top 10 dos carros mais vendidos em Portugal em 2023</TítuloN3>
-    <SubtítuloN3>As surpresas entre os 10 carros mais vendidos em Portugal em 2023 não se encontram no pódio, mas a meio da tabela. E são eletrizantes.</SubtítuloN3>
-    <ConteudoN3>Depois de sabermos quais foram as marcas mais vendidas, hoje ficamos a saber quais foram os 10 carros mais vendidos em Portugal em 2023.
-        Antes disso, importa recordar que 2023 foi um ano de recuperação do mercado nacional, ainda devido à pandemia e a todas as crises que a ela se seguiram. O mercado cresceu 26,1% face a 2022 e ultrapassou as 236 mil unidades, quando contabilizamos os ligeiros e pesados.
-        O pódio das marcas mais vendidas de 2023 foi exatamente o mesmo de 2022, encimado pela Peugeot e seguida pela Renault e Mercedes-Benz. Curiosamente, na lista dos carros mais vendidos em Portugal em 2023, podemos constatar o mesmo: o pódio deste ano é idêntico ao do ano passado.</ConteudoN3>
-</not3>
-<not4>
-    <ImagemN4>not4.webp</ImagemN4>
-    <TítuloN4>Bateria nuclear apresentada. Dura 50 anos sem precisar de ser carregada</TítuloN4>
-    <SubtítuloN4>A chinesa Betavolt apresentou uma bateria atómica, de energia nuclear. A empresa garante que é segura e amiga do ambiente.</SubtítuloN4>
-    <ConteudoN4>A empresa chinesa Betavolt apresentou a sua bateria nuclear, de energia atómica em que uma carga é suficiente para 50 anos de energia estável, sem necessidades de recarregamento ou mesmo de manutenção.
-        Não é ficção científica. Esta solução para o mundo civil acaba de entrar na fase piloto, passando brevemente a ser produzida em massa e disponibilizada no mercado.
-        A Betavolt está a apontar a sua nova bateria para equipamentos da indústria aeroespacial ou médica, mas também para dispositivos de IA (Inteligência Artificial), sensores, drones e outros.
-        Smartphones que nunca precisam de ser carregados ou drones com tempos de voo contínuos? São algumas das possibilidades que esta bateria atómica oferece.</ConteudoN4>
-</not4>
-<not5>
-    <ImagemN5>not5.jpeg</ImagemN5>
-    <TítuloN5>BYD estreia «supernavio» com truque para escapar às sanções europeias</TítuloN5>
-    <SubtítuloN5>O BYD Explorer N.º 1 tem mais de 200 m de comprimento e foi desenvolvido para ser dos mais eficientes do mundo. É movido a gás natural.</SubtítuloN5>
-    <ConteudoN5>Chama-se BYD Explorer N.º 1 e, apesar do nome digno de uma missão da NASA, não é um foguetão. Trata-se, isso sim, de um supernavio cuja missão é transportar carros elétricos fabricados na China para o mercado europeu.
-        Tem capacidade para transportar até 7000 carros, mas como veremos adiante, esta é apenas umas das muitas características que esta «cidade flutuante» tem para mostrar. A sua primeira viagem para Europa teve início este mês e tem como destino final a Alemanha.
-        É o primeiro exemplar de uma nova geração de navios Ro-Ro (diminutivo de Roll-off e Roll-on) — um tipo de embarcação da qual já falámos extensivamente neste artigo — produzido pelos estaleiros da China International Marine Containers Group Co, operado pela Zodiac Maritime Ltd, e que estará ao serviço exclusivo da BYD.</ConteudoN5>
-</not5>
-<not6>
-    <ImagemN6>not6.jpeg</ImagemN6>
-    <TítuloN6>Ataques no Mar Vermelho. Tesla e Volvo suspendem temporariamente produção na Europa</TítuloN6>
-    <SubtítuloN6>Há uma rota alternativa para evitar ataques no Mar Vermelho. Demora mais tempo, é mais cara e está a provocar atrasos na entrega de componentes.</SubtítuloN6>
-    <ConteudoN6>Os ataques no Mar Vermelho a navios de carga por parte dos Houthis, grupo armado do Iémen, começam a provocar restrições também na produção automóvel.
-        São vários os construtores que dependem de rotas no Mar Vermelho — Canal do Suez — para obterem os componentes necessários ao fabrico de automóveis, principalmente elétricos.
-        De acordo com dados da S&P Market Intelligence, foi da Ásia que chegaram 67% das importações europeias de componentes para a produção de baterias, até 30 de setembro. É também do continente Asiático que chegam à Europa 2/3 das baterias de iões de lítio.
-        As restrições de passagem no Canal do Suez, a rota marítima mais rápida entre a Ásia e a Europa, estão a ter um impacto crescente à escala global: 12% do comércio marítimo mundial em contentores passa por ali.</ConteudoN6>
-</not6>
-<not7>
-    <ImagemN7>not7.jpeg</ImagemN7>
-    <TítuloN7>Caminhos opostos. Hertz Portugal vai continuar a reforçar frota elétrica</TítuloN7>
-    <SubtítuloN7>Ao contrário do que vai fazer em «casa», nos EUA, a Hertz vai continuar a reforçar a frota de automóveis 100% elétricos em Portugal</SubtítuloN7>
-    <ConteudoN7>A Hertz anunciou, na passada semana, que vai vender um terço da sua frota de automóveis elétricos nos Estados Unidos da América (EUA), cerca de 20 000 veículos, para voltar a comprar modelos com motor de combustão.
-        A gigante norte-americana do aluguer de automóveis justifica esta decisão com as despesas elevadas relacionadas com colisões e com a baixa procura por parte dos clientes, desistindo assim do objetivo de converter 25% da sua frota total para elétricos, como chegou a anunciar.
-        A juntar a isso, a descida dos preços dos elétricos nos automóveis novos que se verificou em 2023 reduziu o valor de revenda dos modelos elétricos usados da Hertz, fator que também terá pesado nesta decisão.</ConteudoN7>
-</not7>
-<not8>
-    <ImagemN8>not8.webp</ImagemN8>
-    <TítuloN8>Esqueça o híbrido. Este Lexus LBX com motor do GR Yaris precisa de acontecer</TítuloN8>
-    <SubtítuloN8>m Toyota GR Yaris para a família? É assim que podemos olhar para o novo Lexus LBX Morizo RR Concept. Será que vai mesmo acontecer?</SubtítuloN8>
-    <ConteudoN8>A Lexus acaba de apresentar, no Tokyo Auto Salon, uma versão de alto rendimento do pequeno LBX, denominada Morizo RR Concept.
-        Nesta variante, a motorização híbrida do SUV mais pequeno da Lexus, que conduzimos recentemente em Valência, caiu por terra e abriu espaço para o motor G16E-GTS, que é o mesmo que encontramos no Toyota GR Yaris.
-        Associado a uma nova caixa automática de oito velocidades, que o Guilherme já testou em pista, este motor turbo de três cilindros e 1,6 l é capaz de entregar 300 cv de potência e 400 Nm de binário máximo, que são enviados às quatro rodas.</ConteudoN8>
-</not8>
-<not9>
-    <ImagemN9>not9.jpeg</ImagemN9>
-    <TítuloN9>Model S Plaid na mira. BYD revela berlina com mais de 1000 cv</TítuloN9>
-    <SubtítuloN9>Denominada YangWang U7, a nova «super berlina» da BYD deve apostar numa configuração com quatro motores elétricos e ultrapassar os 1000 cv.</SubtítuloN9>
-    <ConteudoN9>Não têm sido semanas fáceis para o Tesla Model S Plaid. Depois do tempo «canhão» do novo Porsche Taycan no Nürburgring, eis que a berlina norte-americana acaba de ganhar um novo rival, o YangWang U7.
-        Apresentada oficialmente na China, esta nova berlina adota a mais recente linguagem visual da BYD e apresenta-se com mais de 1000 cv de potência, assentes na nova plataforma de alto rendimento da construtora chinesa.
-        A YangWang é a divisão premium que a BYD criou no início de 2023 e da qual já conhecemos o superdesportivo U9, que já vimos… dançar. Também já conhecemos o U8, um SUV capaz de flutuar. Agora é a vez do U7, o terceiro modelo desta submarca.</ConteudoN9>
-</not9>
+    <sobre>
+        <TítuloSN>Sobre Nós</TítuloSN>
+        <ConteudoSN>Este Website foi desenvolvido no âmbito da disciplina de Tecnologias WEB pelo
+            grupo 03, constituido pelos alunos João Pinho (numero), Jorge Fonseca (A042998) e Nuno
+            Pinto (numero) do curso de Tecnologias de Comunicação Multimédia da Universidade da
+            Maia.
 
-<sobre>
-    <TítuloSN>Sobre Nós</TítuloSN>
-    <ConteudoSN>Este Website foi desenvolvido no âmbito da disciplina de Tecnologias WEB pelo grupo 03, constituido pelos alunos João Pinho (numero), Jorge Fonseca (A042998) e Nuno Pinto (numero) do curso de Tecnologias de Comunicação Multimédia da Universidade da Maia.
+            O objetivo deste Website foi informar os espetadores sobre alguns aspetos da evolução da
+            tecnologia na industria automóvel, nomeadamente nos veículos elétricos. Para este
+            Website procuramos utilizar os métodos dados em sala de aula para nos ajudar a criar um
+            Website funcional, bem estruturado e esteticamente apelativo.</ConteudoSN>
+        <ImagemSN>logo_umaia.png</ImagemSN>
+    </sobre>
 
-        O objetivo deste Website foi informar os espetadores sobre alguns aspetos da evolução da tecnologia na industria automóvel, nomeadamente nos veículos elétricos. Para este Website procuramos utilizar os métodos dados em sala de aula para nos ajudar a criar um Website funcional, bem estruturado e esteticamente apelativo.</ConteudoSN>
-    <ImagemSN>logo_umaia.png</ImagemSN>
-</sobre>
-
-<contactos>
-    <tabla>
-        <email>
+    <contactos>
+        <tabla>
+            <email>
+                <email>Email</email>
+                <exemploE>example@example.com</exemploE>
+            </email>
+            <numero>
+                <numero>Telefone</numero>
+                <exemplo>+351 911 911 911</exemplo>
+            </numero>
+            <morada>
+                <morada>Morada</morada>
+                <exemplo>Rua da Esquina, 132 4450-450, Porto</exemplo>
+            </morada>
+        </tabla>
+        <TítuloC>Formulário de Contato</TítuloC>
+        <formulario>
+            <nome>Nome</nome>
+            <apelido>Apelido</apelido>
             <email>Email</email>
-            <exemploE>example@example.com</exemploE>
-        </email>
-        <numero>
-            <numero>Telefone</numero>
-            <exemplo>+351 911 911 911</exemplo>
-        </numero>
-        <morada>
-            <morada>Morada</morada>
-            <exemplo>Rua da Esquina, 132 4450-450, Porto</exemplo>
-        </moarada>
-    </tabla>
-    <TítuloC>Formulário de Contato</TítuloC>
-    <formulario>
-        <nome>Nome</nome>
-        <apelido>Apelido</apelido>
-        <email>Email</email>
-        <telemovel>Número de Telemóvel</telemovel>
-        <mensagem>Mensagem</mensagem>
-    </formulario>
-</contactos>
+            <telemovel>Número de Telemóvel</telemovel>
+            <mensagem>Mensagem</mensagem>
+        </formulario>
+    </contactos>
 
 </eletrico>
